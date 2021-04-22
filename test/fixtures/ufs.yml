@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  unit: MyString
+  date: 2021-04-15
+  value: 1.5
+
+two:
+  unit: MyString
+  date: 2021-04-15
+  value: 1.5
